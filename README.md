@@ -1,2 +1,2 @@
 # Java-basics.-Simple-Chatty-Bot.
-The project is a part of stydy course in JetBrains Academy.
+The project is a part of study course in JetBrains Academy.
